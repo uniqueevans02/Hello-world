@@ -1,2 +1,3 @@
 # Hello-world
 training repository
+this is some stuff about me...
